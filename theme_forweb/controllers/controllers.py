@@ -60,7 +60,7 @@ class ThemeForweb(http.Controller):
 
 			# #Position
 
-			# # 'department_id' : post.get('department_id'),
+			'department_id' : post.get('department_id'),
 			# # 'job_id' : post.get('job_id'),
 			# 'job_title' : post.get('job_title'),
 			# # 'category_id' : post.get('category_id'),
